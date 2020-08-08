@@ -2,7 +2,7 @@
 
 ## I'm a Graduate of UNCW, Developer, and Student!
 - 🔭 I’m currently working on a multi-platform mobile app [Moves][website]!
-- 🌱 I’m Also working on a blockchain technology to pair with it
+- 🌱 I’m also working on a blockchain technology to pair with it
 - 🥅 2020 Goals: Launch my ICO
 - ⚡ Fun fact: I love to play video games!
 
