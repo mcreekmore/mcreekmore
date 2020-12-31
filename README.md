@@ -1,6 +1,6 @@
-### Hi there, I'm Matt - aka [mcreekmore][website] 👋
+### Hi there, I'm Matt - aka [creekmore.io][website] 👋
 
-## I'm a Graduate of UNCW, Developer, and Student!
+## I'm a Graduate of UNCW and software developer!
 
 ### Connect with me:
 
