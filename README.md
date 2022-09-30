@@ -27,7 +27,7 @@ Deprecated once I graudated college and then started full-time as a web develope
 
 A full-stack Vue2, Express, Mongo project.
 
-The API here also operated as the backend service for the [Moves](https://creekmore.io/#/moves) app
+The API here also operated as the backend service for the [Moves](https://creekmore.io/#/moves) app.
 
 Key concepts I take away from this project are:
 
