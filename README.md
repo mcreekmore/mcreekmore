@@ -6,7 +6,8 @@ I'm a 2019 graduate of University of North Carolina Wilmington and a software de
 
 ## [Moves](https://creekmore.io/#/moves): 2020
 
-A fully-deployed Flutter app for tracking your local inventories.
+A fully-deployed Flutter app for crowd-sourced tracking your local inventories.
+
 Once previously available for download on both Apple and Play stores. Dart was a joy to work with on this.
 
 This project taught me a lot about:
