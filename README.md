@@ -9,7 +9,7 @@ I'm a 2019 graduate of University of North Carolina Wilmington and a software de
 A fully-deployed Flutter app for tracking your local inventories.
 Once previously available for download on both Apple and Play stores. Dart was a joy to work with on this.
 
-This project taught me a lot about
+This project taught me a lot about:
 
 - mobile-oriented design
 - real-world app store deployment
