@@ -21,7 +21,7 @@ This project taught me a lot about:
 - stateful and stateless components
 - Android and iOS app configuration and build processes
 
-Deprecated once I started full-time after graduating college.
+Deprecated once I graudated college and then started full-time as a web developer for Credit Suisse.
 
 ## [creekmore.io](https://creekmore.io/#/)
 
