@@ -1,26 +1,42 @@
-### Hi there, I'm Matt - aka [creekmore.io](https://creekmore.io) 👋
+# Hi there, I'm Matt - aka [creekmore.io](https://creekmore.io) 👋
 
-## I'm a Graduate of UNCW and software developer!
+I'm a 2019 graduate of University of North Carolina Wilmington and a software developer!
 
-### Connect with me:
+## Heres what you can find here:
 
-[<img align="left" alt="creekmore.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Matthew Creekmore | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Matthew Creekmore | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+## [Moves](https://creekmore.io/#/moves): 2020
 
-<br />
+A fully-deployed Flutter app for tracking your local inventories.
+Once previously available for download on both Apple and Play stores. Dart was a joy to work with on this.
 
-### Languages and Tools:
+This project taught me a lot about
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
+- mobile-oriented design
+- real-world app store deployment
+- utilizing mobile GPS, permissions
+- sqlite
+- google maps api integration
+- firestore integration
+- stateful and stateless components
+- Android and iOS app configuration and build processes
+
+Deprecated once I started full-time after graduating college.
+
+## [creekmore.io](https://creekmore.io/#/): 2019
+
+A full-stack Vue2, Express, Mongo project.
+
+The API here also operated as the backend service for the [Moves](https://creekmore.io/#/moves) app
+
+Key concepts I take away from this project are:
+
+- designing re-usable ui components in Vue
+- async
+- mongoDB, database models
+- state management with VueX
+- localStorage, cookies, JWTs
+- principles of RESTful APIs
+- user authentication API, password hashing
+- private/public page routing
+
+[Link to repo](https://github.com/mcreekmore/app)
