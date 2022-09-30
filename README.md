@@ -59,3 +59,9 @@ Over the years, I've added the following competencies to my belt through this ho
 - automation, scripting, services
 - the will to control the continuous urge to spend more money on it
 - just kidding on that last one... i can't control it.
+
+
+---
+
+If you've made it this far down my profile and have any questions for me, feel free to reach out at `matt@creekmore.io`
+
