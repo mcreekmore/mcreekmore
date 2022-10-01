@@ -23,6 +23,8 @@ This project taught me a lot about:
 
 Deprecated once I graudated college and then started full-time as a web developer for Credit Suisse.
 
+[Link to repo](https://github.com/mcreekmore/moves)
+
 ## [creekmore.io](https://creekmore.io/#/)
 
 A full-stack Vue2, Express, Mongo project.
@@ -51,7 +53,7 @@ This repo is in a way the culmination of me messing around with hardware and lin
 Over the years, I've added the following competencies to my belt through this hobby:
 
 - linux
-- linux server administration
+- server administration
 - networking
 - docker
 - docker-compose
