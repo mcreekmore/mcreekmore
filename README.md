@@ -6,7 +6,7 @@ I'm a 2019 graduate of University of North Carolina Wilmington and a software de
 
 ## [Moves](https://creekmore.io/#/moves)
 
-A fully-deployed Flutter app for crowd-sourced tracking your local inventories.
+A fully-deployed Flutter app for crowd-sourced tracking of your local inventories.
 
 Once previously available for download on both Apple and Play stores. Dart was a joy to work with on this.
 
@@ -59,5 +59,11 @@ Over the years, I've added the following competencies to my belt through this ho
 - docker-compose
 - virtualization
 - automation, scripting, services
-- the will to control the continuous urge to spend more money on it
+- the will to control the continuous urge to spend more money on my server
 - just kidding on that last one... i can't control it.
+
+
+---
+
+If you've made it this far down my profile and have any questions for me, feel free to reach out at [matt@creekmore.io](mailto:matt@creekmore.io)
+
